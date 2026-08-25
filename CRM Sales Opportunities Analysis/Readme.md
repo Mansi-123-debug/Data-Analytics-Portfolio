@@ -4,9 +4,10 @@ An end-to-end **CRM Sales Opportunity Analysis** project built using **SQL Serve
 
 ## Tools & Technologies
 
-- **SQL Server (SSMS)** — Database creation, ETL, data transformation, and data modeling
-- **Power BI** — Data modeling, dashboard development, and visualization
-- **DAX** — KPI and measure calculations
+- **SQL Server** - Relational database engine for database creation, ETL, data transformation, and data modeling
+- **SQL Server Management Studio** - IDE for SQL development and database management
+- **Power BI** - Data modeling, dashboard development, and visualization
+- **DAX** - KPI and measure calculations
 
 ## SQL Concepts Used
 
